@@ -1,0 +1,32 @@
+/**
+Colors used:
+#103A4C
+#FECC50
+#309085
+**/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900|Ubuntu:400,700');
+h1 {
+	font-size:48px;
+	color: #FECC50;	
+	font-family: Roboto;
+		font-weight: 900;
+}
+h2{
+	font-family: Roboto;
+	color: #FECC50;
+}
+p{
+		font-family: Roboto;
+	font-size:16px;
+}
+img{
+  width: 500px;
+}
+div{
+	background-color: #309085;
+	width: 500px;
+	border-style: solid;
+	border-color: #309085;
+	border-width: 10px 15px;
+}
