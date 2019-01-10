@@ -10,11 +10,13 @@ h1 {
 	font-size:48px;
 	color: #FECC50;	
 	font-family: Roboto;
-		font-weight: 900;
+	font-weight: 900;
+	text-align: center;
 }
 h2{
 	font-family: Roboto;
 	color: #FECC50;
+	text-align: center;
 }
 p{
 		font-family: Roboto;
@@ -29,4 +31,8 @@ div{
 	border-style: solid;
 	border-color: #309085;
 	border-width: 10px 15px;
+  margin: auto;	
+}
+body {
+  background-color: #103A4C;
 }
